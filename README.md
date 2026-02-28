@@ -52,7 +52,7 @@ git clone <repository_url>
 cd <repository_name>
 ```
 
-### Initialize Terraform
+### Initialize Terraform ()
 
 Once you have cloned the repository, navigate to the module directory and initialize Terraform:
 
